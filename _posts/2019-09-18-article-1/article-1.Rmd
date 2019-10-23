@@ -1,12 +1,12 @@
 ---
-title: "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time"
+title: "Article 1 : The effects of Ascaris lumbroides parasites in the humain"
 author:
-  - name: Nicolas Devilez
-date: 09-18-2019
+  - name: NDOUNKANG Maurice Carlos
+date: 23-10-2019
 categories:
-  - elephant
-  - track
-preview: image/where-s-my-elephant.jpg
+  - Ascaris lumbricoides
+  - effects
+preview: image/where-s- my Ascaris lumbricoides.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-![ [Credit: Alex Dissanayake Getty Images](https://www.gettyimages.be/detail/foto/dusk-falling-as-elephants-grazing-kenya-stockfotos/187255538) ](image/where-s-my-elephant.jpg)
+![ [Credit: Alex Dissanayake Getty Images](https://www.gettyimages.be/detail/foto/dusk-falling-as-elephants-grazing-kenya-stockfotos/187255538) ](image/where-s-my-Ascaris lymbricoides.jpg)
 
 ## Vocabulary 
 
