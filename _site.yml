@@ -10,8 +10,8 @@ navbar:
     - text: "About"
       href: about.html
     - icon: fab fa-github
-      href: https://github.com/Ndounkang/mauriceCarlos-ndounkang-blog
-base_url: http://Ndounkang.github.to/mauriceCarlos-ndounkang-blog/
+      href: https://github.com/Ndounkang/mauricecarlos-ndounkang-blog
+base_url: http://Ndounkang.github.io/mauricecarlos-ndounkang-blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]

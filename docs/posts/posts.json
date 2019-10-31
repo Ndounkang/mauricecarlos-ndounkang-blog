@@ -1,20 +1,20 @@
 [
   {
     "path": "posts/2019-09-18-article-1/",
-    "title": "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time",
+    "title": "Article 1 : The effects of Ascaris lumbroides parasites in the humain",
     "description": {},
     "author": [
       {
-        "name": "Nicolas Devilez",
+        "name": "NDOUNKANG Maurice Carlos",
         "url": {}
       }
     ],
-    "date": "2019-09-18",
+    "date": "2019-10-23",
     "categories": [
-      "elephant",
-      "track"
+      "Ascaris lumbricoides",
+      "humans parasite"
     ],
-    "preview": "posts/2019-09-18-article-1/image/where-s-my-elephant.jpg",
-    "last_modified": "2019-10-16T12:00:51+02:00"
+    "preview": {},
+    "last_modified": "2019-10-31T16:15:33+01:00"
   }
 ]

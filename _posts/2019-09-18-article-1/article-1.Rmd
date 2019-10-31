@@ -1,12 +1,11 @@
 ---
 title: "Article 1 : The effects of Ascaris lumbroides parasites in the humain"
 author:
-  - name: NDOUNKANG Maurice Carlos
-date: 23-10-2019
+  - name: "NDOUNKANG Maurice Carlos"
+date: 10-23-2019
 categories:
-  - Ascaris lumbricoides
-  - effects
-preview: image/where-s- my Ascaris lumbricoides.jpg
+  - "Ascaris lumbricoides"
+  - "humans parasite"
 output:
   distill::distill_article:
     self_contained: false
