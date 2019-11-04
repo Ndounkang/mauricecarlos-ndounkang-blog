@@ -22,13 +22,23 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Vocabulary 
 
-soil-transmitted helminth  
-A. lumbricoides                is the most common soil-transmitted helminth, infecting more than 800 million patients globally
-ascariasis is non-endemic regions      An absence of travel to endemic regions in an individual’s medical history does not exclude the possibility of ascariasis
-allergic diseases              Allergic sensitization to Ascaris,however, explained a significant proportion of wheezing among rural schoolchildren  
-ascaris infectious             Poverty, illiteracy, poor hygiene, scarcity of potable water, humid  tropical climate, are all  factors associated with ascaris parasitic infestation
-homeostatis                     that measured in unstimulated cultures of peripheral blood leukocytes
-sensitization to Ascaris        presence of anti‐Ascaris IgE 
+soil-transmitted helminth 
+A. lumbricoides is the most common soil-transmitted helminth, infecting more than 800 million patients globally
+
+ascariasis is non-endemic regions      
+An absence of travel to endemic regions in an individual’s medical history does not exclude the possibility of ascariasis
+
+allergic diseases              
+Allergic sensitization to Ascaris,however, explained a significant proportion of wheezing among rural schoolchildren  
+
+ascaris infectious             
+Poverty, illiteracy, poor hygiene, scarcity of potable water, humid  tropical climate, are all  factors associated with ascaris parasitic infestation
+
+homeostatis                     
+that measured in unstimulated cultures of peripheral blood leukocytes
+
+sensitization to Ascaris        
+presence of anti‐Ascaris IgE 
 
 ## Analysis table 
 
