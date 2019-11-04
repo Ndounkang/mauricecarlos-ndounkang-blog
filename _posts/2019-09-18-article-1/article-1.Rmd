@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-![ [Credit: Alex Dissanayake Getty Images](https://www.gettyimages.be/detail/foto/dusk-falling-as-ascaris-grazing-kanya-stockfotos/187255538) ](image/where-s-my-Ascaris lymbricoides.jpg)
+![ [Credit: Alex Dissanayake Getty Images](https://www.gettyimages.be/detail/foto/dusk-falling-as-ascaris-in-lung-stockfotos/187255538) ](image/where-s-my-Ascaris lymbricoides.jpg)
 
 
 
