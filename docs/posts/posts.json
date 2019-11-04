@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-11-04-article-2/",
+    "title": "The effects of Ascaris lumbroides parasites in the human",
+    "description": "A short description of the post.  Ascariasis as well as other helminth infections, is expected to influence the clinical presentation of allergic diseases such as asthma.Indeed, several clinical and experimental works have shown an important impact either increasing or suppressing symptoms, and the same effects have been detected on the underlying immune responses",
+    "author": [
+      {
+        "name": "NDOUNKANG Maurice Carlos",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-04",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-11-04T21:35:50+01:00"
+  },
+  {
     "path": "posts/2019-09-18-article-1/",
     "title": "Article 1 : The effects of Ascaris lumbroides parasites in the humain",
     "description": {},
