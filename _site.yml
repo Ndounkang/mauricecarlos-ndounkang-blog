@@ -1,4 +1,3 @@
-name: "template-blog"
 title: "Ndounkang-Blog"
 output_dir: "docs"
 navbar:
@@ -14,5 +13,6 @@ navbar:
 base_url: http://Ndounkang.github.io/mauricecarlos-ndounkang-blog/
 collections:
     posts:
+      disqus: ndounkang-blog.
       share: [twitter, linkedin, facebook]
-output: distill::distill_article
+output: distill::distill_article 1
