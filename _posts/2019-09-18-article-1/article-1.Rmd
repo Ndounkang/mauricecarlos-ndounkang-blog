@@ -14,7 +14,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-![](image/19858-0550x0475.jpg)
+![](image/5441031.jpg)
 
 ! [Credit: Alex Dissanayake Getty Images](https://www.gettyimages.be/detail/foto/ascaris-lumbricoides in intestion for human) ]
 (image/where-s-my-Ascaris lymbricoides.jpg)
