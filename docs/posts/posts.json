@@ -1,8 +1,8 @@
 [
   {
     "path": "posts/2019-11-04-article-2/",
-    "title": "The effects of Ascaris lumbroides parasites in the human",
-    "description": "A short description of the post.  Ascariasis as well as other helminth infections, is expected to influence the clinical presentation of allergic diseases such as asthma.Indeed, several clinical and experimental works have shown an important impact either increasing or suppressing symptoms, and the same effects have been detected on the underlying immune responses",
+    "title": "Untitled",
+    "description": "Ascaris lumbricoides is the largest nematode inhabiting the human alimentary tract, usually found residing in the jejunum of the small intestine.",
     "author": [
       {
         "name": "NDOUNKANG Maurice Carlos",
@@ -12,7 +12,7 @@
     "date": "2019-11-04",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-11-06T11:15:07+01:00"
+    "last_modified": "2019-11-08T13:18:46+01:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",
@@ -30,6 +30,6 @@
       "humans parasite"
     ],
     "preview": {},
-    "last_modified": "2019-11-07T18:25:57+01:00"
+    "last_modified": "2019-11-08T13:00:42+01:00"
   }
 ]
