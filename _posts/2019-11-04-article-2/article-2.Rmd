@@ -1,8 +1,8 @@
 ---
-tittle: "Article 2 : The effects of Ascaris lumbroides parasites in the human"
-description: Ascaris lumbricoides is the largest nematode inhabiting the human alimentary tract, usually found residing in the jejunum of the small intestine. 
+title: "Article 2 : The effects of Ascaris lumbroides parasites in the human"
+description: "Ascaris lumbricoides is the largest nematode inhabiting the human alimentary tract, usually found residing in the jejunum of the small intestine. "
 author:
-  - name: NDOUNKANG Maurice Carlos
+  - name: "NDOUNKANG Maurice Carlos"
     url: {}
 date: 11-04-2019
 output:
@@ -15,10 +15,6 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 ![](file_show.jpeg)
 ![(https://www.slideserve.com/vinnie/ascariasis-roundworm)]
-Distill is a publication format for scientific and technical writing, native to the web.
-
-Learn more about using Distill at <https://rstudio.github.io/distill>.
-
 
 ## Vocabulary  
 | Ascaris lumbricoides                 | Ascaris lumbricoides  it's an intestinal parasite of humans.                                                                                                       |

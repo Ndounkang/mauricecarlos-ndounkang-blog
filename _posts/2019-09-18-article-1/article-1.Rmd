@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ![](image/5441031.jpg)
 
 ![(https://fineartamerica.com/shop/iphone+7plus+cases/ascaris+lumbricoides]
-(image/where-s-my-Ascaris lymbricoides.jpg)
+
 
 
 ## Vocabulary

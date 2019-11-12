@@ -1,7 +1,7 @@
 [
   {
     "path": "posts/2019-11-04-article-2/",
-    "title": "Untitled",
+    "title": "Article 2 : The effects of Ascaris lumbroides parasites in the human",
     "description": "Ascaris lumbricoides is the largest nematode inhabiting the human alimentary tract, usually found residing in the jejunum of the small intestine.",
     "author": [
       {
@@ -12,7 +12,7 @@
     "date": "2019-11-04",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-11-08T17:39:41+01:00"
+    "last_modified": "2019-11-12T09:08:35+01:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",
@@ -30,6 +30,6 @@
       "humans parasite"
     ],
     "preview": {},
-    "last_modified": "2019-11-08T13:00:42+01:00"
+    "last_modified": "2019-11-12T09:07:13+01:00"
   }
 ]
