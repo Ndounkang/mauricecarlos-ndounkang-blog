@@ -1,20 +1,5 @@
 [
   {
-    "path": "posts/2019-11-18-article-3/",
-    "title": "article 3 : The effects of Ascaris lumbroides in a Pregnant Woman and 6 Year Old Girl",
-    "description": "In this case,biliary ascariasis can be associated with cystic duct obstruction, gallbladder dilation, acute cholecystitis, acute cholangitis, obstructive jaundice, and biliary colic.",
-    "author": [
-      {
-        "name": "NDOUNKANG Maurice Carlos",
-        "url": {}
-      }
-    ],
-    "date": "2019-11-18",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2019-11-18T15:47:26+01:00"
-  },
-  {
     "path": "posts/2019-11-04-article-2/",
     "title": "Article 2 : The effects of Ascaris lumbroides parasites in the human",
     "description": "Ascaris lumbricoides is the largest nematode inhabiting the human alimentary tract, usually found residing in the jejunum of the small intestine.",
@@ -27,7 +12,7 @@
     "date": "2019-11-04",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-11-18T15:51:03+01:00"
+    "last_modified": "2019-11-15T13:07:57+01:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",
