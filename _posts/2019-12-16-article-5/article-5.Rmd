@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ![](image/JCI127963.ga.jpg)
-
+https://www.jci.org/articles/view/127963
 ## Vocabulary
 
 |co-infecction                 |Association with Mycobacterium tuberculosis and Ascaris lumbricoides                                                                                                                               |
