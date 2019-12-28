@@ -15,17 +15,16 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+![](image/JCI127963.ga.jpg)
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
 ## Vocabulary
 
-|co-infecction                 |                                                                                                                               |
+|co-infecction                 |Association with Mycobacterium tuberculosis and Ascaris lumbricoides                                                                                                                               |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|pulmonary tuberculosis       |                                                                                                                                                                                                                                                                                                 |
-| Mycobacterium tuberculosis  |                                                                                                                                                                                                                                                                                                  |
-|subpopulations               |                                                                                                                                                                                                                                                                                                  |
-|Cellular immunit                  |                                                                                                                                                                                                                                                                                             |
+|pulmonary tuberculosis       |Pulmonary lesions of tuberculosis                                                                                                                                                                                                                                                                                                 |
+| Mycobacterium tuberculosis  | Obligate aerobe organism an that primarily infects the lungs                                                                                                                                                                                                                                                                                                |
+|subpopulations               |CD4+ T and  CD8+ T cells activation the immune response against tuberculosis                                                                                                                                                                                                                                                                                                 |
+|Cellular immunit                  | Immunological control of tuberculosis                                                                                                                                                                                                                                                                                             |
 ## Analysis table
 
 |Researchers                      | Universidade do Estado do Amazonas, Universidade Federal de Goiás, Universidade Federal do Amazonas, Instituto de Pesquisas Leônidas & Maria Deane (Leaud author, Marcus Vinícius Guimarães Lacerda).                                                                                                                                                                                                                                                        |
