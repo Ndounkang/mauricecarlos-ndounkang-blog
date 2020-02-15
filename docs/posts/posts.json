@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-02-15-article-6/",
+    "title": "Article 6 : The effects of Ascaris lumbroides parasites: Ascaris lumbricoides infection and risk of childhood asthma",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "NDOUNKANG Maurice Carlos",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-15",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-02-15T14:32:13+01:00"
+  },
+  {
     "path": "posts/2019-12-16-article-5/",
     "title": "Article 5: coinfection of Ascaris lumbricoides",
     "description": "A short description of the post.",
