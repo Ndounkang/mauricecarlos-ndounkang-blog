@@ -13,6 +13,6 @@ navbar:
 base_url: http://Ndounkang.github.io/mauricecarlos-ndounkang-blog/
 collections:
     posts:
-    disqus : ndounkang-1
+    disqus: ndounkang-1
       share: [twitter, linkedin, facebook]
 output: distill::distill_article

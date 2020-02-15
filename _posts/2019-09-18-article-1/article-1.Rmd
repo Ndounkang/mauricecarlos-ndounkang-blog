@@ -16,8 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 ![](image/5441031.jpg)
 
-![(https://fineartamerica.com/shop/iphone+7plus+cases/ascaris+lumbricoides]
-
+https://fineartamerica.com/shop/iphone+7plus+cases/ascaris+lumbricoides
 
 
 ## Vocabulary
@@ -31,6 +30,8 @@ knitr::opts_chunk$set(echo = FALSE)
 | Homeostatis                |  that measured in unstimulated cultures of peripheral blood leukocytes.                                                                                 |
 
 | Sensitization to Ascaris   |  presence of anti‐Ascaris IgE                                                                                              |
+
+
 ## Analysis table
                                                                                                                                                                 
 
