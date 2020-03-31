@@ -1,8 +1,7 @@
 ---
 title: "Article 3 : The effects of Ascaris lumbroides in a Pregnant Woman and 6 Year Old Girl"
 description: |
-  In this case,biliary ascariasis can be associated with cystic duct obstruction, gallbladder dilation, acute cholecystitis, acute cholangitis, obstructive jaundice, and biliary colic.
-author:
+  A short description of the post.
   - name: NDOUNKANG Maurice Carlos
     url: {}
 date: 11-18-2019
@@ -17,6 +16,8 @@ knitr::opts_chunk$set(echo = FALSE)
 ![](image/2-Figure1-1.png)
 
 https://www.semanticscholar.org/paper/Recurrent-cholangitis-secondary-to-Ascaris-%E2%80%93-a-rare-Kumar-Nair/1879b948f330fdf351585609a469a93587f8b851
+
+http://ijpa.tums.ac.ir 
 
 ## Vocabulary  
 |Ascaris lumbricoides;                                           |nematode parasite in human intestine cause ascariasis                                                                                                                                                                                            |

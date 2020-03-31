@@ -1,7 +1,7 @@
 ---
 title: "Article 4 : Ascaris lumbroides in ashore corpses from Korean peninsula to Japan"
 description: |
- Yearly, several reports of unknown boats and corpses brought by the Tsushima Current are found ashore Japanese coast. Further molecular analysis of ITS1, 5.8S rDNA and ITS2 sequences conﬁrmed all specimens were Ascaris lumbricoides; but the potential eﬀect of this phenomena in public health is unknown.
+  A short description of the post.
 author:
   - name: NDOUNKANG Maurice Carlos
     url: {}

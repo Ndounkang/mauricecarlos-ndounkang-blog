@@ -15,7 +15,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 ![](image/hqdefault.jpg)
-https://www.google.be/search?q
+
 
 ## Vocabulary
 
@@ -27,7 +27,7 @@ https://www.google.be/search?q
 | Risk factors                                      | poor sanitation, and crowded or high-density living conditions (less developed regions).                                                                                                                               |
 ## Analysis table
                                                                                                                                                             
-| Researchers?                 | University of Medical Science, Tehran, Iran;  Department of Epidemiology and Biostatistics, School of Public Health.(lead author, Ali Rostami (a.rostami@mubabol.ac.ir; alirostami1984@gmail.com)).                                                                                                                                                                                                                                                                                                                                                                                      |
+| Researchers?                 | University of Medical Science, Tehran, Iran;  Department of Epidemiology and Biostatistics, School of Public Health.(lead author, Ali Rostami (a.rostami@mubabol.ac.ir;alirostami1984@gmail.com)).                                                                                                                                                                                                                                                                                                                                                                                      |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Published in?                                    | Springer-Verlag GmbH Germany, part of Springer Nature 2019                                                                                                                                                                                                                                                                         |
 | General topic?                                   | Exposure to Ascaris lumbricoides infection and risk of childhood asthma in north of Iran
