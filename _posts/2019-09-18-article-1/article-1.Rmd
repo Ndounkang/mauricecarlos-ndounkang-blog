@@ -11,9 +11,17 @@ output:
     self_contained: false
 ---
 
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+
 ```
+
+
+
+
+
 ![](image/5441031.jpg)
 
 https://fineartamerica.com/shop/iphone+7plus+cases/ascaris+lumbricoides
@@ -22,7 +30,7 @@ https://fineartamerica.com/shop/iphone+7plus+cases/ascaris+lumbricoides
 ## Vocabulary
 
 | Ascariasis is non-endemic  |  regions an absence of travel to endemic regions in an individual’s medical history does not exclude the possibility of ascariasis                      |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | 
 | allergic diseases          | Allergic sensitization to ascaris,however, explained a significant proportion of wheezing among rural schoolchildren.                                   |
 
 | ascaris infectious         |  Poverty, illiteracy, poor hygiene, scarcity of potable water, humid  tropical climate, are all  factors associated with ascaris parasitic infestation. |
