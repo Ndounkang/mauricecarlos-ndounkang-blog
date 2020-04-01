@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Vocabulary
 
-|Ascaris lumbricoides                               | Nematoda, Ascarididae infects approximately 700 million people worldwide, with great disparity between regions and countries.                                                                                                                           |
+|Ascaris lumbricoides                               | parasite infected people worldwide with great disparity between regions and countries.                                                                                                                           |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |Relationship                                       | the association between Ascaris lumbricoides infection and childhood asthma                                                                                                                                |
 |Asthma                                             |is a non-communicable diseases worldwide, especially in lower income and less developed countries.                                                                                                                                                      |
 | The incidence                                     | number of people dying by Ascaris  per year.                                                                                                                                                                           |
-| Risk factors                                      | poor sanitation, and crowded or high-density living conditions (less developed regions).                                                                                                                               |
+| Risk factors                                  | conditions of the less developed regions to exposure of infectious.                                                                                                                               |
 ## Analysis table
                                                                                                                                                             
 | Researchers?                 | University of Medical Science, Tehran, Iran;  Department of Epidemiology and Biostatistics, School of Public Health.(lead author, Ali Rostami (a.rostami@mubabol.ac.ir;alirostami1984@gmail.com)).                                                                                                                                                                                                                                                                                                                                                                                      |
