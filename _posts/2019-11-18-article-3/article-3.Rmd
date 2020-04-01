@@ -2,7 +2,8 @@
 title: "Article 3 : The effects of Ascaris lumbroides in a Pregnant Woman and 6 Year Old Girl"
 description: |
   A short description of the post.
-  - name: NDOUNKANG Maurice Carlos
+author:
+  - name: "NDOUNKANG Maurice Carlos"
     url: {}
 date: 11-18-2019
 output:
