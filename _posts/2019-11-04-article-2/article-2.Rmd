@@ -1,15 +1,16 @@
 ---
-title: "Article 2 : immunogenicity of the Ascaris lumbroides in human"
-description: |
-  A short description of the post. 
+title: 'Article 2 : immunogenicity of the Ascaris lumbroides in human'
 author:
-  - name: "NDOUNKANG Maurice Carlos"
-    url: {}
-date: 11-04-2019
+- name: NDOUNKANG Maurice Carlos
+  url: {}
+date: "11-04-2019"
 output:
-  word_document:
+  html_document:
+    df_print: paged
   distill::distill_article:
-    self_contained: false
+    self_contained: no
+  word_document: null
+description: "A short description of the post. \n"
 ---
 
 ```{r setup, include=FALSE}
