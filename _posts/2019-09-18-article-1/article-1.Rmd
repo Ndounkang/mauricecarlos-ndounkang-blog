@@ -23,6 +23,8 @@ knitr::opts_chunk$set(echo = FALSE)
 https://fineartamerica.com/shop/iphone+7plus+cases/ascaris+lumbricoides
 
 https://doi.org/10.1371/journal.pone.0218867
+
+
 ## Vocabulary
 
 | Ascariasis is non-endemic  |  regions does not exclude the possibility of ascariasis                                                                                                                                                                                                                                                                                                          |
